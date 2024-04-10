@@ -1,4 +1,4 @@
-# langchain-applications
+# Langchain applications
 Contains several application based on Langchain and ChatGPT models.
 
 <li>linkedin_sumamrizer
