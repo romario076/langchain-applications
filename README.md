@@ -16,7 +16,7 @@ Helps to retreive information from downloaded langchain documentation. Used pine
 <li>vectorstor_in_memmory
 Implementation of Faiss Vector Store
 
-</li>csv_agent
+<li>csv_agent
 Pandas dataframe agent. Pandas operations based on episodes.csv file
 
 <li>router_agent
