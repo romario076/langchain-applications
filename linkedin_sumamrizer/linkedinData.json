@@ -1,0 +1,511 @@
+{
+    "accomplishment_courses": [
+        {
+            "name": "Exploratory Data Analysis",
+            "number": "Coursera"
+        },
+        {
+            "name": "Getting and Cleaning Data",
+            "number": "Coursera"
+        },
+        {
+            "name": "Linear Regression and Modeling",
+            "number": "Coursera"
+        },
+        {
+            "name": "Machine Learning",
+            "number": "Coursera"
+        },
+        {
+            "name": "R Programming",
+            "number": "Coursera"
+        },
+        {
+            "name": "Statistic: Make Sense of Data",
+            "number": "Coursera"
+        },
+        {
+            "name": "Statistical Inference",
+            "number": "Coursera"
+        },
+        {
+            "name": "Statistical Reasoning",
+            "number": "Coursera"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "description": "Medalist competitions in mathematics and informatics. Member of the international contest on informatics \"Bober\". The award winning \"Forgotten names in science and technology.\"",
+            "issued_on": null,
+            "issuer": "-",
+            "title": "Competitions"
+        }
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_patents": [],
+    "accomplishment_projects": [
+        {
+            "description": "Images gender classification task. Check DNN via CNN.",
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "title": "Images Gender Classification",
+            "url": "https://github.com/romario076/Images-gender-classification"
+        },
+        {
+            "description": "Apply NLP Technics on Simpson episode details.",
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "title": "NLP Technics with Simpsons",
+            "url": "https://github.com/romario076/NLP-with-Simpsons"
+        },
+        {
+            "description": "Live dashboard of streamed twitter tweets, filtered by your own key words with applying sentiment analysis of tweets.",
+            "ends_at": null,
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "title": "Live-Twitter-Sentiment-App",
+            "url": "https://github.com/romario076/Live-Twitter-Sentiment-App"
+        },
+        {
+            "description": "Cryptocurrency intermarket arbitrage detection.",
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "title": "Cryptocurrency Arbitrage",
+            "url": "https://github.com/romario076/CryptoArbitrage"
+        },
+        {
+            "description": "Demo realtime trading platform for cryptocurrency. With realtime visualization and gui.",
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2018
+            },
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2018
+            },
+            "title": "Cryptocurrency trading platform",
+            "url": "https://github.com/romario076/TradingBot"
+        },
+        {
+            "description": "Predict sales prices and practice feature engineering, machine learning.",
+            "ends_at": null,
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "title": "House Prices: Advanced Regression Techniques",
+            "url": "https://github.com/romario076/-House-Prices-Advanced-Regression-Techniques"
+        },
+        {
+            "description": "Scraper which retrieves stocks prices, statistics, news,  from Bloomberg and Yahoo.",
+            "ends_at": null,
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "title": "Yahoo & Bloomberg scraper",
+            "url": "https://github.com/romario076/YahooBloombergScraper"
+        },
+        {
+            "description": "Use cartographic variables to classify forest categories",
+            "ends_at": null,
+            "starts_at": null,
+            "title": "Forest Cover Type Prediction",
+            "url": "https://github.com/romario076/Forest-Cover-Type-Prediction-Kaggle"
+        },
+        {
+            "description": null,
+            "ends_at": null,
+            "starts_at": null,
+            "title": "Investigation of airlines and airports",
+            "url": "https://github.com/romario076/Investigation-of-airlines-and-airports"
+        },
+        {
+            "description": "In this challenge, was asked to complete the analysis of what sorts of people were likely to survive. In particular, to apply the tools of machine learning to predict which passengers survived the tragedy.",
+            "ends_at": null,
+            "starts_at": null,
+            "title": "Titanic-Machine-Learning-from-Disaster",
+            "url": "https://github.com/romario076/Titanic-Machine-Learning-from-Disaster/tree/master"
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_test_scores": [],
+    "activities": [
+        {
+            "activity_status": "Liked by Roman Melnyk",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "title": "\u0410\u043a\u0446\u0456\u0457 GitLab \u043a\u043e\u0448\u0442\u0443\u044e\u0442\u044c \u0443\u0436\u0435 15 \u043c\u043b\u0440\u0434 \u0434\u043e\u043b\u0430\u0440\u0456\u0432. \u041d\u0430 \u0431\u0456\u0440\u0436\u0456 Nasdaq \u043f\u043e\u0447\u0430\u043b\u0438 \u0442\u043e\u0440\u0433\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u0430\u043a\u0446\u0456\u0457 GitLab ($GTLB), \u0441\u043f\u0456\u0432\u0437\u0430\u0441\u043d\u043e\u0432\u043d\u0438\u043a\u043e\u043c \u044f\u043a\u043e\u0457 \u0454 \u0414\u043c\u0438\u0442\u0440\u043e \u0417\u0430\u043f\u043e\u0440\u043e\u0436\u0435\u0446\u044c."
+        },
+        {
+            "activity_status": "Liked by Roman Melnyk",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "title": "\u041f\u043e\u043a\u0440\u043e\u0432\u0438. \u0414\u0435\u043d\u044c \u0437\u0430\u0445\u0438\u0441\u043d\u0438\u043a\u0430. \u0421\u0430\u043c\u0435 \u043d\u0430\u0448\u0438\u043c \u0432\u043e\u0457\u043d\u0430\u043c \u043c\u0438 \u0437\u0430\u0440\u0430\u0437 \u0437\u0430\u0432\u0434\u044f\u0447\u0443\u0454\u043c\u043e, \u0449\u043e \u043d\u0435 \u043f\u043e\u0432\u0438\u043d\u043d\u0456 \u043f\u0435\u0440\u0435\u0445\u043e\u0432\u0443\u0432\u0430\u0442\u0438\u0441\u044c, \u0434\u0443\u043c\u0430\u0442\u0438 \u044f\u043a \u0432\u0438\u0436\u0438\u0432\u0430\u0442\u0438, \u0430 \u0441\u043f\u043e\u043a\u0456\u0439\u043d\u043e \u043f\u0440\u0430\u0446\u044e\u0432\u0430\u0442\u0438, \u0437\u0430\u0440\u043e\u0431\u043b\u044f\u0442\u0438\u2026"
+        },
+        {
+            "activity_status": "Liked by Roman Melnyk",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "title": "\u0427\u0438 \u0431\u0443\u0432\u0430\u044e\u0442\u044c \u0440\u0435\u043a\u0440\u0443\u0442\u0435\u0440\u0438 \u0442\u0430 \u0456\u043d\u0436\u0435\u043d\u0435\u0440\u0438 \u0437 \u0411\u0456\u043b\u043e\u0440\u0443\u0441\u0456 \u0449\u043e \u0434\u043e\u043f\u0438\u0441\u0443\u044e\u0442\u044c \u0431\u0456\u043b\u043e\u0440\u0443\u0441\u044c\u043a\u043e\u044e \u0432 LinkeIn? \u041d\u0430\u043a\u0438\u0434\u0430\u0439\u0442\u0435 \u0437\u0440\u0430\u0437\u043a\u0456\u0432, \u044f\u043a\u0449\u043e \u0454.\u0411\u043e \u043c\u0435\u043d\u0456 \u0432 \u0441\u0442\u0440\u0456\u0447\u043a\u0443 \u043b\u0438\u0448\u0435 \u043b\u0456\u0437\u0443\u0442\u044c \u0442\u0430\u043a\u0456, \u0449\u043e \u0439\u2026"
+        }
+    ],
+    "articles": [],
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/roman-melnyk-690689b8/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240314%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240314T104309Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=394f9b5cfa2bbbdb52391ac77a430b49e5f73ed868fda672e8cc92051cd300ce",
+    "birth_date": null,
+    "certifications": [
+        {
+            "authority": "Udemy",
+            "display_source": "www.udemy.com",
+            "ends_at": null,
+            "license_number": "https://www.udemy.com/certificate/UC-4THP45SM/",
+            "name": "Apache Spark 2.0 + Python : DO Big Data Analytics & ML",
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "url": "https://www.udemy.com/certificate/UC-4THP45SM/"
+        },
+        {
+            "authority": "Udemy",
+            "display_source": "www.udemy.com",
+            "ends_at": null,
+            "license_number": "https://www.udemy.com/certificate/UC-VBBUHQL1/",
+            "name": "Complete Guide to TensorFlow for Deep Learning with Python",
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "url": "https://www.udemy.com/certificate/UC-VBBUHQL1/"
+        },
+        {
+            "authority": "Udemy",
+            "display_source": "www.udemy.com",
+            "ends_at": null,
+            "license_number": "https://www.udemy.com/certificate/UC-ZK34IO2X/",
+            "name": "Deep Learning: Recurrent Neural Networks in Python",
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "url": "https://www.udemy.com/certificate/UC-ZK34IO2X/"
+        },
+        {
+            "authority": "Luxoft",
+            "display_source": null,
+            "ends_at": null,
+            "license_number": null,
+            "name": "Interpersonal Communication Skills for Engineers",
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "url": null
+        }
+    ],
+    "city": null,
+    "connections": 500,
+    "country": "UA",
+    "country_full_name": "Ukraine",
+    "education": [
+        {
+            "activities_and_societies": null,
+            "degree_name": "Bachelor, Master",
+            "description": "Faculty of Mechanics and Mathematics.I have graduated with honors.",
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Mechanics and Mathematics. Theoretical and Applied Statistics",
+            "grade": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFKmdWSHR-B4w/company-logo_100_100/0/1611869215867?e=1642636800&v=beta&t=7FAPT4d9Nc3EZRd_KfKVNwizOfhI-Rk2f8X89NgFotU",
+            "school": "National University 'Ivan Franko' , Lviv",
+            "school_linkedin_profile_url": null,
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            }
+        }
+    ],
+    "experiences": [
+        {
+            "company": "GlobalLogic",
+            "company_linkedin_profile_url": "https://ua.linkedin.com/company/globallogic",
+            "description": "Schindler project - Workinng with data from elevators sensors - Analyzing elevators errors and breakdowns from sensors and find ways to prevent it",
+            "ends_at": null,
+            "location": "Kyiv, Berlin",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHfsFr91ekzrQ/company-logo_100_100/0/1593608530033?e=1642636800&v=beta&t=xVi9aE8lkvS_C2O4dVStqoKObH1tMzU6qkhDCQQgK98",
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "title": "Data Scientist"
+        },
+        {
+            "company": "Simporter",
+            "company_linkedin_profile_url": "https://ua.linkedin.com/company/simporter",
+            "description": "- Preparation and processing of large amounts of unstructured data using DataBricks and Spark.- Machine learning in demand forecasting for retail- New products launch prediction- Existing products sales forecasting- Extracting features from text using NLP approaches- Experience of work with companies such as Calvin Klein, Tommy Hilfiger, PVH, Knorr, Danone- Created models were used for apps creation for our clients",
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2021
+            },
+            "location": "Kyiv",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGydqmpV39BmQ/company-logo_100_100/0/1534773688835?e=1642636800&v=beta&t=QcM93vta-fYsJRxYtrEKvovc9zFunLXquaD0Xft9WjY",
+            "starts_at": {
+                "day": 1,
+                "month": 3,
+                "year": 2020
+            },
+            "title": "Data Scientist"
+        },
+        {
+            "company": "Atto Trading Technologies LLC",
+            "company_linkedin_profile_url": "https://ua.linkedin.com/company/atto-trading",
+            "description": "- Data analysis/exploration/manipulation/aggregation.- Working with different data sources.- Data visualization, creation analytical web applications/dashboards and different tools.- Shiny-server maintenance and support.- Applying different models and prediction algorithms, creating metrics, pattern recognition.- Developing financial strategies.- Theoretical proofing of ideas.- Produce prototypes to demonstrate concepts and ideas.- Automated crypto trading platform.- Python Development, Engineering. - Data management system, configuration and management of data validation processes.- Development of  analytical databases.- Machine Learning, neural networks. System for models building, training, evaluation and implementation.",
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2020
+            },
+            "location": "Kyiv",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHUgM3oYuqN6w/company-logo_100_100/0/1619461868335?e=1642636800&v=beta&t=0wGyqbLeHY9e9lV0l7qyZNutpqm87R-0UVtV0DuyrS8",
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "title": "Data Scientist"
+        }
+    ],
+    "extra": null,
+    "first_name": "Roman",
+    "follower_count": null,
+    "full_name": "Roman Melnyk",
+    "gender": null,
+    "groups": [],
+    "headline": "Data Scientist \u2013 GlobalLogic",
+    "industry": null,
+    "inferred_salary": null,
+    "interests": [],
+    "languages": [
+        "English",
+        "Ukrainian",
+        "Polish"
+    ],
+    "last_name": "Melnyk",
+    "occupation": "Data Scientist at GlobalLogic",
+    "people_also_viewed": [
+        {
+            "link": "https://ua.linkedin.com/in/vitaliy-miroshnychenko-934336104",
+            "location": "Mykolayiv",
+            "name": "Vitaliy Miroshnychenko",
+            "summary": "Senior Machine Learning Engineer \u2013 GlobalLogic"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/maksymnedobor",
+            "location": "Ukraine",
+            "name": "Maks Nedobor",
+            "summary": "Head Of Marketing at Simporter | Blockchain | Fintech"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/diananechepurenko",
+            "location": "Ukraine",
+            "name": "Diana Nechepurenko",
+            "summary": "\u0421\u0442\u0443\u0434\u0435\u043d\u0442(\u043a\u0430) \u0432 \u0443\u0447. \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0438 Taras Shevchenko National University of Kyiv"
+        },
+        {
+            "link": "https://www.linkedin.com/in/viacheslav-slava-sablin",
+            "location": "Beverly Hills, CA",
+            "name": "Viacheslav (Slava) Sablin",
+            "summary": "Data Scientist/Founder at Mimebition Solutions LLC"
+        },
+        {
+            "link": "https://nl.linkedin.com/in/alexander-chugunkin",
+            "location": "Netherlands",
+            "name": "Alexander Chugunkin",
+            "summary": "Data Scientist(Financial Time Series Predictions & Statistics Expert)"
+        },
+        {
+            "link": "https://ru.linkedin.com/in/korviakov-andrey",
+            "location": "Moscow, Russia",
+            "name": "Andrey Korviakov",
+            "summary": "Senior DevOps Engineer"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/vadim-urupa-99017a1a3",
+            "location": "Kyiv",
+            "name": "Vadim Urupa",
+            "summary": "Data Science"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/taras-halaburda",
+            "location": "Lviv",
+            "name": "Taras Halaburda",
+            "summary": "Trainee | Junior Front End Developer (Angular)"
+        },
+        {
+            "link": "https://in.linkedin.com/in/vineeth-nambiar-342713115",
+            "location": "Mumbai",
+            "name": "Vineeth Nambiar",
+            "summary": "Software Engineer at Dappros"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/volodymyr-styrna-a878586a",
+            "location": "Ukraine",
+            "name": "Volodymyr Styrna",
+            "summary": "DevOps Engineer at SoftServe"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/bogdan-ponomarev-6a5501160",
+            "location": "Ukraine",
+            "name": "Bogdan Ponomarev",
+            "summary": "Java Software Engineer - GlobalLogic"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/valeriikolesnik",
+            "location": "Ukraine",
+            "name": "Valerii Kolesnik",
+            "summary": "Senior Software Engineer at GlobalLogic"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/ivan-rybkin-5b2962137",
+            "location": "Ukraine",
+            "name": "Ivan Rybkin",
+            "summary": "DevOps Engineer \u2013 Luxoft"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/mikhailo-maxym-7618bb156",
+            "location": "Ukraine",
+            "name": "Mikhailo Maxym",
+            "summary": "Software Engineer at GlobalLogic"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/magicbash",
+            "location": "Ukraine",
+            "name": "Andrii B.",
+            "summary": "Engineering Team Lead \u2013 GlobalLogic"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/eugene-fediuchok",
+            "location": "Ukraine",
+            "name": "Eugene Fediuchok",
+            "summary": "Lead Software Engineer at GlobalLogic"
+        },
+        {
+            "link": "https://ca.linkedin.com/in/colin-mcgraw-4b8553122",
+            "location": "Canada",
+            "name": "Colin McGraw",
+            "summary": "Mechanical Superintendent"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/pavel-markiv",
+            "location": "Ukraine",
+            "name": "Pavel Markiv",
+            "summary": "Quantitative Developer & Researcher at Vestun"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/yar-kik",
+            "location": "Kyiv",
+            "name": "Yaroslav Kikvadze",
+            "summary": "Junior Python Developer \u2013 Simporter"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/killbarby",
+            "location": "Ukraine",
+            "name": "Maxim Kononenko",
+            "summary": "DevOps engineer"
+        }
+    ],
+    "personal_emails": [],
+    "personal_numbers": [],
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/roman-melnyk-690689b8/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240314%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240314T104309Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2cde86bfb65ffe462bee714d6038b26d7c065285fc5cf20bc2c2785dd4817397",
+    "public_identifier": "roman-melnyk-690689b8",
+    "recommendations": [],
+    "similarly_named_profiles": [
+        {
+            "link": "https://pl.linkedin.com/in/aywengo",
+            "location": "Pozna\u0144",
+            "name": "Roman Melnyk",
+            "summary": "Backend Solution Engineer: GCP/AWS/Azure cloud, Kubernetes/Docker, Apache Kafka/Confluent Platform entusiast, Scala/Kotlin/Rust programmer."
+        },
+        {
+            "link": "https://ua.linkedin.com/in/roman-melnyk-13494815",
+            "location": "Ukraine",
+            "name": "Roman Melnyk",
+            "summary": "Front end developer"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/melnykroman",
+            "location": "Ukraine",
+            "name": "Roman Melnyk",
+            "summary": "Backend Node.js Developer"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/roman-melnyk-814991aa",
+            "location": "Ukraine",
+            "name": "Roman Melnyk",
+            "summary": "\uf8ff iOS Developer  \u2013 NGSE"
+        },
+        {
+            "link": "https://ua.linkedin.com/in/roman-melnyk-5a7a6929",
+            "location": "Ukraine",
+            "name": "Roman Melnyk",
+            "summary": "Wikipedia moderator at Wikipedia, the Free Encyclopedia. Head of Wikipedia Ukraine NGO"
+        }
+    ],
+    "skills": [],
+    "state": null,
+    "summary": "I apply different kinds of data manipulations, statistics, and machine learning techniques to extract knowledge from market data and generate ideas for algorithmic trading. Ideas are transformed into models which I prototype via Python, R, and then \u2013 implementation on c++ new strategies for trading. In addition, I create different tools and dashboards for data visualization, manipulation, analysis, and I develop analytical tools, parsers, scrapers, different \u201cworking horses\u201c, which work on a daily basis.I have experience in:- Development, integration, and maintenance of new software functionality.- Creation of dynamical dashboards, reports, visualizations via RShiny and Jupyter dashboards, etc.- Development of simulators, backtest systems. - Setup of systems for data management, reporting, and notification- Creating and support to the whole data flow process.I have experience in end-to-end machine learning projects: data exploration, feature engineering, models building, evaluation performance, and implementation.I have worked with large amounts of unstructured data from the FMCG and the Fashion sphere. Moreover, I have created different machine learning solutions for clients, product sales prediction, new product launches, product life cycle detection, etc.Personal qualities:Responsibility, punctuality, communication skills, ability to quickly perceive and process new information, hard worker, team player, self-motivated, able to learn on own initiative, eager to further my knowledge'sDuring studying in Universiny had experience at:- Data scientist at Mal\u0441os company- Teacher of math at Lviv Classical gymnasiumP.S.Please, if projects or company somehow related to Russia, do not contact me)",
+    "volunteer_work": [
+        {
+            "cause": "Politics",
+            "company": "Euromaidan",
+            "company_linkedin_profile_url": null,
+            "description": "Kyiv City State Administration",
+            "ends_at": null,
+            "logo_url": null,
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "title": "volonteer"
+        }
+    ]
+}
